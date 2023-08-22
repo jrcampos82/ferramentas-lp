@@ -1,4 +1,4 @@
-let products = [
+exports.products = [
   {
     id: 0,
     name: "Product 1",
